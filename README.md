@@ -7,7 +7,7 @@ In .env file you have configuration off your app
 
 <code>API_URL</code> - set your url where you will send alarms
 
-<code>MEMORY_LIMIT</code> - set memory limits in MB, when system value of used RAM will be more than this value app will send alarm.
+<code>MEMORY_LIMIT</code> - set memory limits in MB, when system value of used RAM will be more than this value - app will send alarm.
 
 <code>API_HOST</code> - set address when your API will be deploy
 
