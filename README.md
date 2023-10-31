@@ -2,7 +2,8 @@
 The test task includes an application to monitor memory usage and send a signal when memory load is high.
 
 You need to install dependencies by <code>pip install -r requirements.txt</code>
-In .env file you have configuration off your app
+
+In <code>.env</code> file you have configuration off your app
 
 
 <code>API_URL</code> - set your url where you will send alarms
