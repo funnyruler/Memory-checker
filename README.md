@@ -10,8 +10,8 @@ In <code>.env</code> file you have configuration off your app
 
 <code>MEMORY_LIMIT</code> - set memory limits in MB, when system value of used RAM will be more than this value - app will send alarm.
 
-<code>API_HOST</code> - set address when your API will be deploy
+<code>API_HOST</code> - set address where your API will be deploy
 
-<code>API_PORT</code> - set port when your API will be deploy
+<code>API_PORT</code> - set port where your API will be deploy
 
 After setting configuration you need to start <code>api.py</code> and api service will be deploy and you can start tracking memory by <code>main.py</code> file.
